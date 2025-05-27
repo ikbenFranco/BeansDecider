@@ -1,0 +1,9 @@
+# Telegram Bot Token
+# Get this from @BotFather on Telegram
+BOT_TOKEN=7956639136:AAEiNAOcX08ezWarVpuqAtxtNDRkRqztJng
+
+# Optional: Set to production when deploying
+NODE_ENV=production
+
+# Optional: Port for health checks (useful for Render)
+PORT=3000
